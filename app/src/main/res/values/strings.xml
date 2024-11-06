@@ -5,5 +5,9 @@
     <string name="AGE">My age is 21</string>
     <string name="ConI1">one</string>
     <string name="ConI2">two</string>
+    <string name="INFO1">I am at Sohag University</string>
+    <string name="INFO2">MY Part time is Hardware Technician</string>
+    <string name="INFO3">I am Gamer</string>
+    <string name="EM">&#128072;</string>
 
 </resources>
