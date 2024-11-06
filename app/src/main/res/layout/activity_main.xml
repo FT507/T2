@@ -100,7 +100,8 @@
     android:layout_height="wrap_content"
     android:text="@string/EM"
     android:textSize="21sp"
-    android:background="@color/White"/>
+    android:background="@color/Black"
+    android:textColor="@color/White"/>
 
 
 </LinearLayout>
