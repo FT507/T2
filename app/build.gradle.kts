@@ -10,6 +10,7 @@ android {
     defaultConfig {
         applicationId = "com.example.project1"
         minSdk = 29
+        //noinspection OldTargetApi
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -32,6 +33,9 @@ android {
     }
     kotlinOptions {
         jvmTarget = "11"
+    }
+    buildFeatures{
+        viewBinding = true
     }
 }
 

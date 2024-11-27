@@ -1,13 +1,12 @@
 <resources>
     <string name="app_name">Project!</string>
-    <string name="TEXT1">Meme app</string>
-    <string name="Name">MY name is mohamed</string>
-    <string name="AGE">My age is 21</string>
-    <string name="ConI1">one</string>
-    <string name="ConI2">two</string>
-    <string name="INFO1">I am at Sohag University</string>
-    <string name="INFO2">MY Part time is Hardware Technician</string>
-    <string name="INFO3">I am Gamer</string>
-    <string name="EM">Done</string>
+    <string name="My_Info">My Info</string>
+    <string name="G_Info">I am student at FCAI , I am gamer , I am android developer</string>
+    <string name="Age">21</string>
+    <string name="facebook">facebook</string>
+    <string name="Instagram">instagram</string>
+    <string name="followF">FB Link</string>
+    <string name="followI">IG Link</string>
+
 
 </resources>
